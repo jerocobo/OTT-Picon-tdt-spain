@@ -10,6 +10,9 @@
 <h2><strong>Projecto Picon</strong></h2>
 <p>Los picones estan realizados por el grupo Jungle-team en caso que quieran que realizemos los picones de su region acceda al grupo telegram y los solicite:</p>
 <p><strong>Grupo telegram:</strong>&nbsp;<a href="https://t.me/joinchat/Bv0_2hZ8jH6dsUJFoYG-Rg">https://t.me/joinchat/Bv0_2hZ8jH6dsUJFoYG-Rg</a></p>
+
+Para solicitarlos debere enviar capturas de pantalla de los logos en la tv cuando estan transmitiendo, cada captura debera llevar el nombre del canal, para no tener que enviar uno a uno, comprima todas las capturas en un archivo .zip.
+
 <p>&nbsp;</p>
 <p>Los picones son de libre distribucion solamente se solicita que en caso de compartirlos enlace con este github.</p>
 <p><strong>&nbsp;</strong></p>
